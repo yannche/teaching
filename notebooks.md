@@ -4,4 +4,5 @@
 https://colab.research.google.com/drive/11YGpM_ROlhkG5nDyiSU0iQmALuO-mulz?usp=sharing
 
 ## Travaux Pratiques: K-plus proches voisins
-https://colab.research.google.com/drive/1B6a0tYcEs1SpCtEAir0vHhfx2FU-qlbX?usp=sharing
+mini intro: https://colab.research.google.com/drive/1ef91-GGCKPgKuJp8R13wlg2wwCinr8Iq?usp=sharing
+TP: https://colab.research.google.com/drive/1B6a0tYcEs1SpCtEAir0vHhfx2FU-qlbX?usp=sharing
